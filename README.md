@@ -54,12 +54,6 @@
 
 </div>
 
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrightTetena&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
 <div align="center">
   <h3>✨ Thanks for visiting my profile! Let's build something amazing together! ✨</h3>
 </div>
